@@ -21,5 +21,6 @@
   "homepage": "https://github.com/shravani-arch-bot/CHATIFY#readme",
   "dependencies": {
     "path": "^0.12.7"
+  
   }
 }
